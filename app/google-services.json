@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630947002762",
+    "firebase_url": "https://symbiosis-001.firebaseio.com",
+    "project_id": "symbiosis-001",
+    "storage_bucket": "symbiosis-001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630947002762:android:812dbe4ac8dda1facf7073",
+        "android_client_info": {
+          "package_name": "com.solvedunsolved.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630947002762-lsskmqfheumu3oas5b2rln7v7ie5pt9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solvedunsolved.firebase",
+            "certificate_hash": "d4a217ce21c43565fb9cbf0fefcdf20796407c25"
+          }
+        },
+        {
+          "client_id": "630947002762-71occucokjdbn7isce389ao4jhak7c9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw9Ma7cIwGmRsWKXwtYVJUqYEoAgITu7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630947002762-71occucokjdbn7isce389ao4jhak7c9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
